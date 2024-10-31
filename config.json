@@ -35,7 +35,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100058695235956",
+    "shohag.islam.fb1",
     "",
     "YOUR_OTHER_FB_UID"
   ],
@@ -48,21 +48,21 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝙲𝚈𝙱𝙴𝚁~𝙼𝙸𝙼",
+  "nickNameBot": "𝙲𝚈𝙱𝙴𝚁~Sԋσԋαɠ",
   "prefix": "-",
   "xnil": "",
   "api": "",
   "api2": "",
   "a6y": "",
-  "authorName": "~𝘼𝙁𝙍𝙄𝘿𝙄~",
-  "facebook2": "https://www.facebook.com/bd.afridi.10",
+  "authorName": "~ѕнσнαg~",
+  "facebook2": "https://www.facebook.com/shohag.islam.fb1",
   "facebook": "",
-  "email": "mdafridi0173@gmail.com",
-  "replit": "https://replit.com/@afriduofficial",
+  "email": "skshohagislambd@gmail.com",
+  "replit": "https://replit.com/@shohagofficial",
   "github": "https://github.com/cybermim/Mimbot3/edit/main/config.json",
   "insta": "no",
-  "age": "19",
-  "TG": "https://t.me/bdafridi",
+  "age": "28",
+  "TG": "https://",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
