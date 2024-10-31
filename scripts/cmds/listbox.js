@@ -31,7 +31,7 @@ module.exports = {
 				const formattedList = filteredList.map((group, index) =>
 					`│${index + 1}. ${group.threadName}\n│𝚃𝙸𝙳: ${group.threadID}`
 				);
-				const message = `╭─────❃\n│𝙻𝙸𝚂𝚃 𝙾𝙵 𝙶𝚁𝙾𝚄𝙿 𝙲𝙷𝙰𝚃𝚂:\n${formattedList.map(line => `${line}`).join("\n")}\n╰────────────✦`;
+				const message = `╭─────❃\n│𝙼𝙸𝙼 𝙾𝙵 𝙶𝚁𝙾𝚄𝙿 𝙲𝙷𝙰𝚃𝚂:\n${formattedList.map(line => `${line}`).join("\n")}\n╰────────────✦`;
 				await api.sendMessage(message, event.threadID, event.messageID);
 			}
 		} catch (error) {
