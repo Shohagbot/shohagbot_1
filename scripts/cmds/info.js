@@ -15,14 +15,14 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = " ♡ 𝙰𝙵 𝚁𝙸 𝙳𝙸 ♡ ";
-		const ownAge = "『 19』";
-		const messenger = "https://m.me/bd.afridi.10";
-		const authorFB = "https://www.facebook.com/bd.afridi.10";
-		const authorNumber = "_01732228674";
+		const authorName = " ♡ 𝚂𝙷 𝙾𝙷 𝙰𝙶 ♡ ";
+		const ownAge = "『 28』";
+		const messenger = "https://𝚎𝚛𝚛𝚘𝚛";
+		const authorFB = "https://www.facebook.com/shohag.islam.fb1";
+		const authorNumber = "_01914258099";
 		const Status = "_𝘚𝘪𝘯𝘨𝘭𝘦 𝘗𝘳𝘰 𝘔𝘢𝘹 ⛱";
 		const urls = [
-"https://i.imgur.com/BfXcvZc.gif",
+"https://××××××××××××××××",
 ",
 "",
 ""
@@ -51,8 +51,8 @@ module.exports = {
 \⏰彡𝑁𝑜𝑤 𝑇𝑖𝑚𝑒 : ${time}
 \🔰彡𝐴𝑛𝑦 𝐻𝑒𝑙𝑝 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 : ${messenger}
 \📛彡𝐵𝑜𝑡 𝐼𝑠 𝑅𝑢𝑛𝑛𝑖𝑛𝑔 𝐹𝑜𝑟 : ${uptimeString}
-    𝑻𝒈: https://t.me/bdafridi
-    𝑰𝒏𝒔𝒕𝒂: https://www.instagram.com/error
+    𝑻𝒈: https://𝚎𝚛𝚛𝚘𝚛
+    𝑰𝒏𝒔𝒕𝒂: https://error
     𝑪𝒂𝒑𝑪𝒖𝒕: https://mobile.capcutshare.com/s/Zs8BTk8bG/
     𝑻𝒊𝒌𝑻𝒐𝒌: https://www.tiktok.com/@error?
     𝒀𝒐𝒖𝑻𝒖𝒃𝒆: https://youtube.com/@error?
