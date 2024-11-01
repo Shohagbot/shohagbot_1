@@ -22,7 +22,7 @@ module.exports = {
 		const authorNumber = "_01914258099";
 		const Status = "_𝘚𝘪𝘯𝘨𝘭𝘦 𝘗𝘳𝘰 𝘔𝘢𝘹 ⛱";
 		const urls = [
-"https://××××××××××××××××",
+"https://",
 ",
 "",
 ""
