@@ -3,13 +3,13 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "[ N I S A N ]"; // changing this wont change the goatbot V2 of list cmd it is just a decoyy
+const doNotDelete = "[ 𝚂 𝙷 𝙾 𝙷 𝙰 𝙶 ]"; // changing this wont change the goatbot V2 of list cmd it is just a decoyy
 
 module.exports = {
   config: {
     name: "help",
     version: "1.17",
-    author: "ᴀғʀɪᴅɪ",
+    author: "𝚂𝙷𝙾𝙷𝙰𝙶",
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -63,7 +63,7 @@ module.exports = {
       msg += ``;
       msg += `\n╭─────❃\n│🌟 | [𝙶𝙾𝙰𝚃𝙱𝙾𝚃🐐│https://www.facebook.com/profile.php?id=/disting.disting.need05\n╰────────────✦`; 
 
-      const attachment = await axios.get("https://i.imgur.com/BfXcvZc.gif", { responseType: "stream" });
+      const attachment = await axios.get("××××××××××××××××××", { responseType: "stream" });
 
       await message.reply({
         body: msg,
